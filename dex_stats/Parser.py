@@ -1,7 +1,7 @@
 import json
 import logging
 import os
-import sys
+import sys 
 
 from pymongo import MongoClient
 from utils.adex_tickers import adex_tickers
